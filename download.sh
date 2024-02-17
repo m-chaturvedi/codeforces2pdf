@@ -54,7 +54,7 @@ declare -a C=(
 	1872_F
 )
 
-delcare -a D=(
+declare -a D=(
 	1872_E
 	1870_D
 	1868_B1
